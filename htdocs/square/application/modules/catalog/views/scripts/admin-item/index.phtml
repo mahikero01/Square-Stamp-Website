@@ -1,0 +1,95 @@
+<h2>List Items</h2>
+<?php if (count($this->records)): ?>
+<div id="pager">
+	Pages: <?php echo $this->pages; ?>
+</div>
+<div id="records">
+  <form method="post" action="<?php echo $this->url(array(), 'admin-catalog-delete'); ?>">
+    <table>
+    	<tr>
+	        <td></td>    
+	        <td class="key">
+	          Item ID
+	          <a href="<?php echo $this->url(
+	          	array('sort' => 'RecordID', 'dir' => 'asc'), 
+	          	'admin-catalog-index'); ?>">&uarr;</a>
+	          <a href="<?php echo $this->url(
+	          	array('sort' => 'RecordID', 'dir' => 'desc'), 
+	          	'admin-catalog-index'); ?>">&darr;</a>
+	        </td>
+	        <td class="key">
+	          Title
+	          <a href="<?php echo $this->url(
+	          	array('sort' => 'Title', 'dir' => 'asc'), 
+	          	'admin-catalog-index'); ?>">&uarr;</a>
+	          <a href="<?php echo $this->url(
+	          	array('sort' => 'Title', 'dir' => 'desc'), 
+	          	'admin-catalog-index'); ?>">&darr;</a>
+	        </td>
+	        <td class="key" colspan="5">
+	          Denomination
+	          <a href="<?php echo $this->url(
+	          	array('sort' => 'Denomination', 'dir' => 'asc'), 
+	          	'admin-catalog-index'); ?>">&uarr;</a>
+	          <a href="<?php echo $this->url(
+	          	array('sort' => 'Denomination', 'dir' => 'desc'), 
+	          	'admin-catalog-index'); ?>">&darr;</a>
+	        </td>
+	        <td class="key">
+	          Country
+	          <a href="<?php echo $this->url(
+	          	array('sort' => 'CountryID', 'dir' => 'asc'), 
+	          	'admin-catalog-index'); ?>">&uarr;</a>
+	          <a href="<?php echo $this->url(
+	          	array('sort' => 'CountryID', 'dir' => 'desc'), 
+	          	'admin-catalog-index'); ?>">&darr;</a>
+	        </td>
+	        <td class="key">
+	          Grade
+	          <a href="<?php echo $this->url(
+	          	array('sort' => 'GradeID', 'dir' => 'asc'), 
+	          	'admin-catalog-index'); ?>">&uarr;</a>
+	          <a href="<?php echo $this->url(
+	          	array('sort' => 'GradeID', 'dir' => 'desc'), 
+	          	'admin-catalog-index'); ?>">&darr;</a>
+	        </td>
+	        <td class="key">
+	          Year
+	          <a href="<?php echo $this->url(
+	          	array('sort' => 'Year', 'dir' => 'asc'), 
+	          	'admin-catalog-index'); ?>">&uarr;</a>
+	          <a href="<?php echo $this->url(
+	          	array('sort' => 'Year', 'dir' => 'desc'), 
+	          	'admin-catalog-index'); ?>">&darr;</a>
+	        </td>    
+	        <td></td>    
+	        <td></td>    
+		</tr>
+      <?php foreach ($this->records as $r):?>
+      <tr>
+        <td><input type="checkbox" name="ids[]" value="<?php echo $r['RecordID']; ?>" style="width:10px" /></td>
+        <td><?php echo $this->escape($r['RecordID']); ?></td>
+        <td><?php echo $this->escape($r['Title']); ?></td>
+        <td><?php echo $this->escape(sprintf('%1.2f', $r['Denomination'])); ?></td>
+        <td><?php echo $this->escape($r['Square_Model_Country']['CountryName']); ?></td>
+        <td><?php echo $this->escape($r['Square_Model_Grade']['GradeName']); ?></td>
+        <td><?php echo $this->escape($r['Year']); ?></td>    
+        <td><a href="<?php echo $this->url(array('id' => $r['RecordID']), 'admin-catalog-display'); ?>">Display</a></td>    
+        <td><a href="<?php echo $this->url(array('id' => $r['RecordID']), 'admin-catalog-update'); ?>">Update</a></td>    
+      </tr>  
+      <?php endforeach; ?>
+      <tr>
+        <td colspan="9"><input type="submit" name="submit" style="width:150px" value="Delete Selected" /></td>
+        <td colspan="2"><a href="<?php echo $this->url(array(), 'admin-fulltext-index-create'); ?>">Update full-text indices</a></td>
+      </tr>    
+    </table>
+  </form>
+</div>
+
+<div id="pager">
+	Pages: <?php echo $this->pages; ?>
+</div>
+
+<?php else: ?>
+No records found
+<?php endif; ?>

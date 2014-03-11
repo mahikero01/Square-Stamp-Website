@@ -1,0 +1,84 @@
+<?php
+class Square_Form_ItemUpdate extends Square_Form_ItemCreate 
+{
+	public function init() 
+	{
+		parent::init();
+		
+		$this->setAction('admin/catalog/item/update');
+		
+		$this->removeElement('Captcha');
+		$this->removeDisplayGroup('verification');
+		$this->removeElement('images');
+		$this->removeDisplayGroup('files');
+		
+		$id = new Zend_Form_Element_Hidden('RecordID');
+		$id->addValidator('Int')
+		   ->addFilter('HtmlEntities')
+		   ->addFilter('StringTrim');
+		   
+		$display = new Zend_Form_Element_Select('DisplayStatus',
+			array('onChange' => 
+				"javascript:handleInputDisplayOnSelect('DisplayStatus',
+				'divDisplayUntil' new Array('1')); cal.hide();"));
+		$display->setLabel('Display status:')
+				->setRequired(true)
+				->addValidator('Int')
+				->addFilter('HtmlEntities')
+				->addFilter('StringTrim');
+		$display->addMultiOptions(array(
+			0 => 'Hidden',
+			1 => 'Visible'
+		));
+		
+		$displayUntil = new Zend_Form_Element_Hidden('DisplayUntil');
+		$displayUntil->setLabel('Display until (yyy-mm-dd):')
+					 ->addValidator('Date', false, array('format' => 'yyy-MM-dd'))
+					 ->addFilter('HtmlEntities')
+					 ->addFilter('StringTrim')
+					 ->addDecorators(
+					 	array(
+					 		array(
+					 			'HTMLTag', 
+					 			array(
+					 				'tag' => 'div', 
+					 				'id' => 'divDisplayUntil'
+					 			)
+					 		),
+					 	)
+					 );
+		
+		$calendar = new Zend_Form_Element_Text('Calendar');
+		$calendar->setDecorators(
+						array(
+							array('Label', array('tag' => 'dt')),
+							array(
+								'HTMLTag', 
+								array(
+									'tag' => 'div',
+									'id' => 'divCalendar',
+									'class' => 'yui-skin-sam yui-cacontainer',
+									'style' => 'display:none'
+								)
+							),
+						)
+				 );
+				
+		$this->addElement($id)
+			 ->addElement($display)
+			 ->addElement($calendar)
+			 ->addElement($displayUntil);
+			 
+		$this->addDisplayGroup(
+			array(
+				'DisplayStatus', 
+				'DisplayUntil',
+				'Calendar'
+			), 
+			'display'
+		);
+		$this->getDisplayGroup('display')
+			 ->setOrder(25)
+			 ->setLegend('Display Information');
+	}
+}

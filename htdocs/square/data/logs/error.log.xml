@@ -1,0 +1,1596 @@
+<logEntry><timestamp>2010-12-26T13:12:24+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T13:14:47+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T13:15:01+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T13:19:16+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T13:21:38+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T13:24:16+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T13:30:53+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T13:31:22+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T13:36:35+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T14:17:40+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T14:17:45+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T14:18:26+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T14:20:51+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T14:22:32+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T14:23:05+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T14:23:33+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T14:23:41+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T14:33:41+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T14:33:50+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T14:33:52+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T14:34:00+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T14:34:02+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T14:34:11+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T14:34:12+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T14:34:21+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T14:38:06+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T14:48:40+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T23:32:10+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T23:32:21+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T23:32:26+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T23:32:34+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T23:33:14+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T23:37:17+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T23:37:45+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T23:38:10+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T23:39:33+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T23:40:47+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T23:41:57+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T23:43:58+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T23:44:01+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T23:44:08+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-26T23:44:15+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T00:50:32+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T00:51:36+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T01:40:44+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T01:40:54+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T01:44:03+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:46:03+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:46:12+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:46:16+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:46:18+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:46:20+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:46:23+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:46:26+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:46:47+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:46:51+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:46:53+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:46:56+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:46:58+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:47:09+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:47:11+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:47:52+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:47:54+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:47:56+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:47:58+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:48:00+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:48:01+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:48:03+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:48:05+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:48:10+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:48:13+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:48:16+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:49:24+08:00</timestamp><message>Invalid controller specified (css)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(3) "css"
+  ["action"] =&gt; string(10) "master.css"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:49:25+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:49:43+08:00</timestamp><message>Invalid controller specified (css)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(3) "css"
+  ["action"] =&gt; string(10) "master.css"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:49:44+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:49:46+08:00</timestamp><message>Invalid controller specified (css)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(3) "css"
+  ["action"] =&gt; string(10) "master.css"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:49:47+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:49:49+08:00</timestamp><message>Invalid controller specified (css)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(3) "css"
+  ["action"] =&gt; string(10) "master.css"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:49:49+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:49:51+08:00</timestamp><message>Invalid controller specified (css)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(3) "css"
+  ["action"] =&gt; string(10) "master.css"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:49:52+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:49:55+08:00</timestamp><message>Invalid controller specified (css)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(3) "css"
+  ["action"] =&gt; string(10) "master.css"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:49:56+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:49:57+08:00</timestamp><message>Invalid controller specified (css)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(3) "css"
+  ["action"] =&gt; string(10) "master.css"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:49:58+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:50:02+08:00</timestamp><message>Invalid controller specified (css)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(3) "css"
+  ["action"] =&gt; string(10) "master.css"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:50:19+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:50:45+08:00</timestamp><message>Invalid controller specified (css)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(3) "css"
+  ["action"] =&gt; string(10) "master.css"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:50:47+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:51:00+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:51:03+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:52:20+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:54:26+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:54:30+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:54:32+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:54:33+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:54:35+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:54:38+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:54:47+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T09:54:59+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T20:09:26+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T20:09:42+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T20:09:44+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T20:09:45+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T20:11:01+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-27T20:32:50+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:18:51+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:19:02+08:00</timestamp><message>Invalid controller specified (admin)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(5) "admin"
+  ["action"] =&gt; string(4) "item"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:19:03+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:19:09+08:00</timestamp><message>Invalid controller specified (admin)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(5) "admin"
+  ["action"] =&gt; string(4) "item"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:19:10+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:19:19+08:00</timestamp><message>Invalid controller specified (admin)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(4) {
+  ["controller"] =&gt; string(5) "admin"
+  ["action"] =&gt; string(7) "catalog"
+  ["item"] =&gt; string(7) "display"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:19:20+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:19:29+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:19:39+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:19:54+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:22:21+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:23:32+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:23:39+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:23:47+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:24:48+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:25:28+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:25:48+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:25:52+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:26:05+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:26:11+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:26:16+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:26:21+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:26:26+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:26:37+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:26:41+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:26:44+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:26:56+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:27:00+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:27:10+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:27:13+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:27:16+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:27:22+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:27:25+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:27:39+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:27:45+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:27:52+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:27:58+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+
+<logEntry><timestamp>2010-12-28T00:28:04+08:00</timestamp><message>Invalid controller specified (favicon.ico)</message><priority>3</priority><priorityName>ERR</priorityName><stacktrace>#0 C:\Program Files\PHP\includes\Zend\Controller\Front.php(954): Zend_Controller_Dispatcher_Standard-&gt;dispatch(Object(Zend_Controller_Request_Http), Object(Zend_Controller_Response_Http))
+#1 C:\Program Files\PHP\includes\Zend\Application\Bootstrap\Bootstrap.php(97): Zend_Controller_Front-&gt;dispatch()
+#2 C:\Program Files\PHP\includes\Zend\Application.php(366): Zend_Application_Bootstrap_Bootstrap-&gt;run()
+#3 C:\Program Files\Apache Software Foundation\Apache2.2\htdocs\square\public\index.php(26): Zend_Application-&gt;run()
+#4 {main}</stacktrace><request>&lt;pre&gt;array(3) {
+  ["controller"] =&gt; string(11) "favicon.ico"
+  ["action"] =&gt; string(5) "index"
+  ["module"] =&gt; string(7) "default"
+}
+&lt;/pre&gt;</request></logEntry>
+

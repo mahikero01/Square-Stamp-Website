@@ -1,0 +1,72 @@
+<h2>News</h2>
+<div id="newsfeeds">
+	<div id="posts">
+		<strong>
+			Recent news about
+			<a href="http://news.google.com/news?hl=en&q=<?php echo $this->q; ?>">
+				'<?php echo $this->q; ?>'</a>:
+		</strong>
+		<p id="hdiv"></p>
+		<?php $count = 0; ?>
+		<?php foreach ($this->feeds[0] as $entry): ?>
+			<?php  if ( $count >= 5 ) break; ?>
+			<p class="post">
+				<span class="text">
+					<a href="<?php echo $entry->getLink();  ?>">
+						<?php echo $entry->getTitle();  ?></a>
+				</span>
+				<span class="time">
+					<?php echo $entry->getDateModified(); ?>
+				</span>
+			</p>
+			<?php $count++; ?>
+		<?php endforeach;  ?>
+		
+		<p style="padding-top: 4px"/>
+		
+		<strong>
+			Recent posts from
+			<a href="http://www.postalheritage.org.uk">
+				the British Postal Museum</a> blog:
+		</strong>
+		<p id="hdiv"></p>
+		<?php $count = 0; ?>
+		<?php foreach ($this->feeds[1] as $entry): ?>
+			<?php  if ( $count >= 5 ) break; ?>
+			<p class="post">
+				<span class="text">
+					<a href="<?php echo $entry->getLink();  ?>">
+						<?php echo $entry->getTitle();  ?></a>
+				</span>
+				<span class="time">
+					<?php echo $entry->getDateModified(); ?>
+				</span>
+			</p>
+			<?php $count++; ?>
+		<?php endforeach;  ?>
+	</div>
+	
+	<div id="tweets">
+		<strong>
+			Recent tweets about
+			<a href="http://search.twitter.com/search?q=<?php echo $this->q; ?>">
+				'<?php echo $this->q; ?>'</a>:
+		</strong>
+		<?php foreach ($this->tweets['results'] as $tweet): ?>
+			<p class="tweet">
+				<span class="image">
+					<img src="<?php echo $tweet['profile_image_url']; ?>"/>
+				</span>
+				<span class="user">
+					<?php echo $tweet['from_user'] . ': '; ?>
+				</span>
+				<span class="text">
+					<?php echo $tweet['text'];  ?>
+				</span>
+				<span class="time">
+					<?php echo $tweet['created_at']; ?>
+				</span>
+			</p>
+		<?php endforeach;  ?>
+	</div>
+</div>
